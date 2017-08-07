@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "山水"
+title: "archive"
 description: ""
 header-img: "img/orange.jpg"
 ---
