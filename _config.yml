@@ -12,19 +12,14 @@ owner:
   bio: "smile and smile"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-# Build settings  
-# use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 8
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
 
 # Defaults for posts
@@ -35,21 +30,5 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "21cst"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
-
-# Comments 
-comments :
-  provider : duoshuo
-  duoshuo :
-    short_name : 
-  disqus :
-      short_name : 
-
-# Analytics and webmaster tools stuff goes here
-google_analytics: 
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Links to include in footer navigation
