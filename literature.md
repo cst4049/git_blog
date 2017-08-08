@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "archive"
+title: "literature"
 description: ""
 header-img: "img/orange.jpg"
 ---
